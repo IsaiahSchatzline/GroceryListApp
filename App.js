@@ -1,5 +1,17 @@
 import React, {useState} from 'react';
-import { Keyboard, TouchableOpacity, KeyboardAvoidingView, Image, StyleSheet, Platform, Text, TextInput, View } from 'react-native';
+
+import { 
+  Keyboard, 
+  TouchableOpacity, 
+  KeyboardAvoidingView, 
+  Image, 
+  StyleSheet, 
+  Platform, 
+  Text, 
+  extInput, 
+  View 
+} from 'react-native';
+
 import Task from './components/Task';
 
 
