@@ -8,7 +8,7 @@ import {
   StyleSheet, 
   Platform, 
   Text, 
-  extInput, 
+  TextInput, 
   View 
 } from 'react-native';
 
@@ -52,8 +52,6 @@ export default function AppScreen() {
           )
         })
        }
-       {/* <Task text={'Task 1'} />
-       <Task text={'Task 2'}/> */}
      </View>
 
 
